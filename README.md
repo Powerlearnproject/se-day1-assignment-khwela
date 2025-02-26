@@ -90,3 +90,4 @@ A)Define prompt engineering and discuss its importance in interacting with AI mo
 B)Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 1. Vague prompt : Tell me how to fix network issues.
 2. Improved prompt : As a Technician please explain how can I find what is causing network failure why my vmware is fine .
+3. The importance is that better prompts lead to higher-quality AI responses, saving time and improving efficiency. 
